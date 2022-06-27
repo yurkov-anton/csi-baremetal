@@ -6,4 +6,5 @@ ADD     node  node
 
 EXPOSE  9999
 
+
 ENTRYPOINT ["/node"]
